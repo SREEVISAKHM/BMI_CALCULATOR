@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # bmi_calculator
 
@@ -18,3 +19,6 @@ samples, guidance on mobile development, and a full API reference.
 =======
 # BMI_CALCULATOR
 
+=======
+# BMI_CALCULATOR
+>>>>>>> 43c78a014ad217f2cf27f0156e894cffe1c75396
